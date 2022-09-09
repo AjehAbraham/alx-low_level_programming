@@ -1,14 +1,20 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <ctype.h>
 /**
-* main - printf value n
-* Return: 0
-*/
+ *  * * main - Entry point
+ *   * * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
-char i;
-for (i = 'a'; i >= 'z'; i--)
-putchar("%c\n", i);
-return (0);
+
+	char n;
+
+	for (n = 'z'; n >= 'a'; n--)
+	{
+		putchar(n);
+	}
+
+	putchar('\n');
+	return (0);
 }
