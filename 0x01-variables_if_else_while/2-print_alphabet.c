@@ -6,6 +6,6 @@
 int main(void)
 {
 char Numb = 'b';
-putchar("Numb\n");
+putchar("%c\n", Numb);
 return (0);
 }
