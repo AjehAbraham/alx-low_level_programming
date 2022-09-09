@@ -1,15 +1,25 @@
 #include <stdio.h>
+#include <ctype.h>
 /**
-* main - printf value n
-* Return: 0
-*/
+ **main - Entry point
+ **Return: Always 0 (Success)
+ **task : prints out lower alphabet, Uppercase and next line
+ **strict : using 3 putchar
+ */
+
 int main(void)
 {
-char b;;
-char Z;
-for(b='a'; b<='z'; ch++)
-for (Z=‘A’; Z<=‘Z’; Z++)
-putchar("b,Z");
-putchar(“\n”);
-return 0;
+	char n;
+
+	for (n = 'a'; n <= 'z'; n++)
+	{
+		putchar(n);
+	}
+
+	for (n = 'A'; n <= 'Z'; n++)
+	{
+		putchar(n);
+	}
+	putchar('\n');
+	return (0);
 }
