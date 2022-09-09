@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-* main - Entry point
+* main - print value n
 * Return:Always 0(Sucess)
 */
 
