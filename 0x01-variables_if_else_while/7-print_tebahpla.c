@@ -1,4 +1,5 @@
-nclude<stdio.h>
+#include
+<stdio.h>
 /**
 * main - printf value n
 * Return: 0
