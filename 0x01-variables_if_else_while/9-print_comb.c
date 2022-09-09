@@ -1,9 +1,8 @@
 #include <stdio.h>
 /*
 * main - Entry point
- * Return:Always 0(Sucess)
-* TasK : print numbers with , seperating them
- */
+* Return:Always 0(Sucess)
+*/
 
 int main(void)
 {
