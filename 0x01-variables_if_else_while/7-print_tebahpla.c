@@ -1,6 +1,5 @@
-#include
-<stdio.h>
-<stdio.h>
+#include<stdio.h>
+#include <stdio.h>
 /**
 * main - printf value n
 * Return: 0
