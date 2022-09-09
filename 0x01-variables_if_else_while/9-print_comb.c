@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
-* main - print value n
-* Return:Always 0(Sucess)
+
+/**
+* main - printf value n
+* Return: 0
 */
 
 int main(void)
