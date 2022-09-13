@@ -5,7 +5,6 @@
 */
 int main(void)
 {
-#include "main.h"
 putchar("_putchar\n");
 return (0);
 }
