@@ -5,8 +5,8 @@
 */
 void print_alphabet_10x(void)
 {
-char i,j;
-for (k = 0; k <= 10 ; k++)
+char i, j;
+for (j= 0;j <= 10 ;j++)
 {
 for (i = 'a'; i <= 'z'; i++)
 {
