@@ -6,6 +6,6 @@
 int main(void)
 {
 #include "main.h"
-putchar("-putchar\n");
+putchar("_putchar\n");
 return (0);
 }
