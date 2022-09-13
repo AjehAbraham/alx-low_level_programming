@@ -3,7 +3,7 @@
 * print_alphabet_10x - entry
 * Return: always 0 (success)
 */
-void print_alphabet_10x(void)
+void print_alphabet_x10(void)
 {
 char i, j;
 for (j= 0;j <= 10 ;j++)
