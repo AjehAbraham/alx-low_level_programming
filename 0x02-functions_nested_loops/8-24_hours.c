@@ -1,11 +1,15 @@
-[8:11 pm, 13/09/2022] Abraham: #include "main.h"
+#include "main.h"
 /**
-* jack_bauer-prints all minutes in a day
-* Return:0 if succeesful.
-*/
+ * jack_bauer-prints all minutes in a day from 00:00
+ *
+ * Return:0 if succeesful.
+ */
+
+
 void jack_bauer(void)
 {
 	int i, j, k, m;
+
 	for (i = 0; i <= 2; i++)
 	{
 		for (j = 0; j <= 9; j++)
