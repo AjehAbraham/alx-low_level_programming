@@ -1,4 +1,4 @@
-#inlude "main.h"
+#include "main.h"
 /**
 * print_diagonal - check code
 * @n:use to print diagonal line if condition is true
