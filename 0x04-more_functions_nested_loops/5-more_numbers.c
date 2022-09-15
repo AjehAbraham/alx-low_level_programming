@@ -5,12 +5,20 @@
 * Return:0 always(sucess)
 */
 void more_numbers(void)
+
+void more_numbers(void)
 {
-	for (h = 0; h <= 14; h++)
+	int i, ch;
+
+	for (i = 0; i < 10; i++)
 	{
-		if (h >= 10)
-			_putchar((h / 10) + 48);
-				_putchar((h % 10) + 48);
+		for (ch = 0; ch < 15; ch++)
+		{
+			if (ch >= 10)
+				_putchar((ch / 10) + 48);
+			_putchar((ch % 10) + 48);
+		}
+		_putchar('\n');
 	}
-	_putchar('\n');
 }
+
