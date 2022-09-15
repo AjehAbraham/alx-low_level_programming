@@ -10,7 +10,7 @@ void print_diagonal(int n)
 
 	{
 		for (z =1; n <= 0; z++)
-			_putchar('\');
+			_putchar('\\');
 		_putchar('\n');
 	}
 }
