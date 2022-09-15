@@ -1,2 +1,1 @@
-learning C debugging at alx
-echo learning C debugging at alx
+learning C,nested loops,functions and C debugging .
