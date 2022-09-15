@@ -9,8 +9,9 @@ void print_diagonal(int n)
 	int z;
 
 	{
-		for (z <= 0; n >= 0; z++)
+		for (z <= 0; n <= 0; z++)
 			_putchar('\\');
 		_putchar('\n');
 	}
 }
+Gsgd
