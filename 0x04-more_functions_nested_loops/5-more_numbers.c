@@ -1,4 +1,4 @@
-#inlude "main.h"
+#include "main.h"
 /**
 * more_numbers - check code
 * @void:check for the number and print 10 times
