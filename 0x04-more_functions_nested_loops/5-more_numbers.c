@@ -5,8 +5,6 @@
 * Return:0 always(sucess)
 */
 void more_numbers(void)
-
-void more_numbers(void)
 {
 	int i, ch;
 
@@ -20,5 +18,4 @@ void more_numbers(void)
 		}
 		_putchar('\n');
 	}
-}
-
+}gd
