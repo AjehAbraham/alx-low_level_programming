@@ -1,1 +1,1 @@
-learning about more pointers,arrays and strings in C
+Learning all about C which include loops,conditional statement,arrays,pointers and strings.
