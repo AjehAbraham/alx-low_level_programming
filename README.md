@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Betty
 
 [![Build Status](https://travis-ci.org/holbertonschool/Betty.svg?branch=master)](https://travis-ci.org/holbertonschool/Betty)
@@ -27,3 +28,6 @@ betty-style file1 [file2 [file3 [...]]]
 ```ShellSession
 betty-doc file1 [file2 [file3 [...]]]
 ```
+=======
+Learning all about C which include loops,conditional statement,arrays,pointers,pointer functions and everything about C.
+>>>>>>> f5e7458f13f82bcc39969338c7a28510c2fc9bd8
